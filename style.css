@@ -1,0 +1,25 @@
+.icons {
+    display: flex;
+    justify-content:right;
+    align-items: ;
+
+
+}
+.header{
+  display: flex;
+  justify-content: center;
+  ma
+  
+}
+.btn {
+    background-color: pink;
+    border: 0cap;
+    display: flex;
+    padding: 8px;
+    
+}
+body{
+    background-image:url(https://img.freepik.com/free-photo/medical-test-with-red-stethoscope_329181-10406.jpg?w=740&t=st=1708365519~exp=1708366119~hmac=bd2c18e2510832d1c5725e21e27f87b4e59327fffd3a3e0cbe0a5c862ca91c9e) ;
+    background-size: cover;
+    display: block;
+}
